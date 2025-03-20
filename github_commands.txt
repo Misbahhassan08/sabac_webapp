@@ -1,0 +1,7 @@
+echo "# sabac_webapp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Misbahhassan08/sabac_webapp.git
+git push -u origin master

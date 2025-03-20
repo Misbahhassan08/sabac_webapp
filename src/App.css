@@ -1,0 +1,15 @@
+/* /* Set the background color for the entire app */
+body, #root, .App {
+  background-color: #f0f0f0; /* Replace with your desired background color */
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /* min-width: 100vw; */
+}
+.Sidebar {
+  height: 100vh;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
