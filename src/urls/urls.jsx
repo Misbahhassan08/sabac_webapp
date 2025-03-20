@@ -1,5 +1,5 @@
 const API_Base_url =
-  process.env.REACT_APP_API_BASE_URL || "https://serversabac-382170497486.us-central1.run.app";
+  process.env.REACT_APP_API_BASE_URL || "https://sabac-server-382170497486.us-central1.run.app";
 
   const urls ={
     login : `${API_Base_url}/login/`,
